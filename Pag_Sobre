@@ -1,0 +1,82 @@
+<!DOCTYPE html>
+<html lang="br">
+
+<head>
+    <link rel="stylesheet" href="estilo_pag.css">
+    <meta charset="UTF-8">
+    <title>Sobre</title>
+    <link rel="icon" href="imagens_site/logo_instagram.ico">
+    
+    <header>
+        <h1>SEJA DIFERENTE DA MAIORIA,</h1>
+        <h1 style="color:Tomato;">E SE TORNE 1% MELHOR A CADA DIA</h1>
+        <a href="momento_maromba.html" class="botao">Home</a>
+
+    </header>
+
+
+</head>
+
+<body>
+    <h2>QUEM É O MOMENTO MAROMBA?</h2>
+    <p>O Momento Maromba é uma página backstage, criada em
+        Março de 2021, por dois jovens amantes do esporte
+        fisiculturismo e da prática da musculação.
+        <br>
+        O perfil foi feito com o propósito de informar, entreter e
+        motivar as pessoas do mundo maromba/ fitness. Fazer com
+        que nossos seguidores entendam melhor a respeito de tudo
+        que engloba a musculação.
+        <br>
+        Um esporte que transforma,
+        motiva, inspira e muda a vida das pessoas completamente.
+        <br>
+        Hoje com mais de 800 mil seguidores somando as redes sociais, seguimos no caminho
+        confiantes na educação e informação que trazemos com confiança que esse esporte que só vem crescendo em cenário
+        nacional e internacional.
+    </p>
+    <br>
+    <h1>PARA MAIS INFORMAÇÕES:</h1>
+    <h3>CONTATE-NOS DIRETAMENTE PELO E-MAIL:
+        <br>
+        marombamomento1@gmail.com
+        <br>
+         OU PELA NOSSAS REDES SOCIAIS:</h3>
+    <div>
+        <style>
+            table,
+            th,
+            td {
+                border: 0px solid black;
+            }
+        </style>
+
+        <table style="width:100%">
+            <tr>
+                <th>
+                    <h1>CONTATO</h1>
+                </th>
+            </tr>
+            <tr>
+                <td> <a href="https://www.instagram.com/momentomaromba/"><img src="imagens_site/icon_instagram.png"
+                            height="50" width="50"></a></td>
+            </tr>
+            <tr>
+                <td> <a href="https://www.tiktok.com/@momentomaromba?lang=pt-BR"><img src="imagens_site/icon_tiktok.jpg"
+                            height="50" width="50"></a></td>
+            </tr>
+            <tr>
+                <td> <a href="https://www.youtube.com/channel/UCnOfuuHdTgr1DPEvltNew4w"><img
+                            src="imagens_site/icon_youtube.png" height="50" width="50"></a></td>
+            </tr>
+        </table>
+
+
+    </div>
+
+    <footer>
+        <p>&copy; 2024 Momento Maromba. Todos os direitos reservados.</p>
+    </footer>
+</body>
+
+</html>

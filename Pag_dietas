@@ -1,0 +1,69 @@
+<!DOCTYPE html>
+<html lang="br">
+
+<head>
+    <link rel="stylesheet" href="estilo_pag.css">
+    <meta charset="UTF-8">
+    <title>Dietas</title>
+    <link rel="icon" href="imagens_site/logo_instagram.ico">
+
+    <header>
+        <div class="inicio">
+
+            <h1>PREPARE PARA TER A SUA</h1>
+            <h1 style="color:tomato;">MELHOR VERSÃO</h1>
+
+        </div>
+        <a href="momento_maromba.html" class="botao">Home</a>
+
+    </header>
+
+
+</head>
+
+<body>
+
+
+
+
+
+    <div class="container_2">
+        <div class="conteudo_2">
+            <div class="secao-esquerda_2">
+                <div class="secao-img">
+                    <img src="imagens_site/img_perder.png" height="200" width="200">
+                </div>
+                <h2>Dieta de emagrecimento</h2>
+                <p>Perca 5kg em até 30 dias</p>
+                <h1>R$50,00</h1>
+                <a href="dieta_5.xlsx" class="botao">Panilha emagreça agora</a>
+            </div>
+            <div class="secao-direita_2">
+                <div class="secao-img">
+                    <img src="imagens_site/img_massa.png" height="200" width="200">
+                </div>
+                <h2>Dieta para ganhar massa</h2>
+                <p>Ganhe 3kg de massa muscular em até 30 dias</p>
+                <h1>R$70,00</h1>
+                <a href="dieta_3_massa.xlsx" class="botao">Planilha ganhe massa</a>
+            </div>
+
+            <div class="secao-atendimento_2">
+                <div class="secao-img">
+                    <img src="imagens_site/img_trincado.png" height="200" width="200">
+                </div>
+                <h2>Dieta Fitness</h2>
+                <p>Fique com a barriga trincada em até 3 semanas</p>
+                <h1>R$40,00</h1>
+                <a href="dieta_trincado.xlsx" class="botao">Planilha barriga trincado</a>
+            </div>
+        </div>
+    </div>
+
+
+    <footer>
+        <p>&copy; 2024 Momento Maromba. Todos os direitos reservados.</p>
+    </footer>
+</body>
+
+</html>

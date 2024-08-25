@@ -1,0 +1,70 @@
+<!DOCTYPE html>
+<html lang="br">
+
+<head>
+    <link rel="stylesheet" href="estilo_pag.css">
+    <meta charset="UTF-8">
+    <title>Treino</title>
+    <link rel="icon" href="imagens_site/logo_instagram.ico">
+
+    <header>
+        <div>
+            <h1 style="color:tomato;">SUA ROTINA DE TREINO DA MELHOR FORMA</h1>
+            <a href="momento_maromba.html" class="botao">Home</a>
+    </header>
+
+</head>
+
+<body>
+    <div>
+
+
+
+    </div>
+
+    <div class="container_2">
+        <div class="conteudo_2">
+            <div class="secao-esquerda_2">
+                <div class="secao-img">
+                    <img src="imagens_site/iniciante.jpg" height="200" width="200">
+                </div>
+                <h2>INICIANTE</h2>
+                <p>3 aulas por semana</p>
+                <p>Acompanhamento online + direções de dietas</p>
+                <h1>R$125,00 Por mês</h1>
+                <a href="secreto.html" class="botao">Começa agora</a>
+            </div>
+            <div class="secao-direita_2">
+                <div class="secao-img">
+                    <img src="imagens_site/intermediario.webp" height="200" width="200">
+                </div>
+                <h2>INTERMEDIARIO</h2>
+                <p>4 aulas por semana</p>
+                <p>Acompanhamento online + direções de dietas + planilha de treinos</p>
+                <h1>R$140,00 Por mês</h1>
+                <a href="secreto.html" class="botao">Continue no caminho</a>
+            </div>
+
+            <div class="secao-atendimento_2">
+                <div class="secao-img">
+                    <img src="imagens_site/avancado.webp" height="200" width="200">
+                </div>
+                <h2>AVANÇADO</h2>
+                <p>5 aulas por semana</p>
+                <p>Acompanhamento online + direções de dietas + planiha de treinos + desconto especial growth + 1hr por
+                    mês de atendimento privado</p>
+                <h1>R$200,00 Por mês</h1>
+                <a href="secreto.html" class="botao">Fique monstro</a>
+            </div>
+        </div>
+    </div>
+
+
+
+
+    <footer>
+        <p>&copy; 2024 Momento Maromba. Todos os direitos reservados.</p>
+    </footer>
+</body>
+
+</html>

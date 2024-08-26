@@ -7,7 +7,7 @@
     <meta charset="UTF-8">
     <title>Momento Maromba</title>
     <link rel="icon" href="imagens_site/logo_instagram.ico">
-    
+
     <header>
         <h1>MOMENTO</h1>
         <h1 style="color:Tomato;">MAROMBA</h1>
@@ -15,6 +15,10 @@
         <div class="patrocinio">
             <h1><span>G</span>rowth</h1>
             <h6>SUPPLEMENTS</h6>
+        </div>
+
+        <div>
+            <a href="login.html" class="botao">Login</a>
         </div>
 
     </header>
